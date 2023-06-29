@@ -1,0 +1,3 @@
+el salario es: 1950
+las horas extras son: 2 
+la antiguedad es: 17
